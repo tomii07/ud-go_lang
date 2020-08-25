@@ -11,6 +11,8 @@ func main() {
 		println("x is not less than 10")
 	}
 
+	println("-------------------------")
+
 	// Loops
 	for x := 0; x < 5; x++ {
 		println(x)
