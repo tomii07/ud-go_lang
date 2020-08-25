@@ -1,2 +1,1 @@
-# ud-go_lang
-Go Lang Language Basics + Certification
+# Go Lang Language Basics + Certification
